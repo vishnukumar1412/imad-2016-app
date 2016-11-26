@@ -15,6 +15,10 @@ app.get('/ui/style.css', function (req, res) {
 app.get('/ui/marketingmix.html', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'marketingmix.html'));
 });
+app.get('/ui/ContactUs.html', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'ContactUs.html'));
+});
+
 app.get('/ui/index.html', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
