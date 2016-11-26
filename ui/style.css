@@ -53,6 +53,11 @@ h1
     border-radius:5px;
     margin:10px;
 }
+#image
+{
+    width:250px;
+    height:400px;
+}
 #footer
 {
 	background-color:brown;
