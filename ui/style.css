@@ -43,6 +43,15 @@ h1
 	border-radius:5px;
 	padding:10px;
 }
+#next
+{
+    width:100px;
+    text-align:center;
+    background-color:red;
+    color:black;
+    line-height:40px;
+    border-radius:5px;
+}
 #footer
 {
 	background-color:brown;
