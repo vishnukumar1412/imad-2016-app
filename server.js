@@ -18,6 +18,9 @@ app.get('/ui/marketingmix.html', function (req, res) {
 app.get('/ui/ContactUs.html', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'ContactUs.html'));
 });
+app.get('/ui/vishnukumar.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'vishnukumar.jpg'));
+});
 
 app.get('/ui/index.html', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
