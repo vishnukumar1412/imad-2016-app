@@ -53,6 +53,13 @@ h1
     border-radius:5px;
     margin:10px;
 }
+#contact
+{
+    text-align:center;
+    background-color:grey;
+    margin:10px;
+    border-radius:5px;
+}
 #footer
 {
 	background-color:brown;
