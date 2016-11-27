@@ -25,6 +25,7 @@ h1
 	height:25px;
 	background-color:olive;
 	border-radius:5px;	
+	display:inline;
 }
 .sidebar
 {
