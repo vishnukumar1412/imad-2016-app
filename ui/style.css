@@ -19,6 +19,10 @@ h1
 	-ms-transform:translateY(-50%);
 	transform:translateY(-50%);
 }
+form
+{
+    display:inline;
+}
 #nav1
 {
 	margin:10px;
