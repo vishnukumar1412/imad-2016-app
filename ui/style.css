@@ -5,7 +5,6 @@ body {
 }
 #header
 {
-	background-color:saffron;
 	height:50px;
 	margin:10px;
 	border-radius:5px;
@@ -52,7 +51,7 @@ form
 {
     width:100px;
     text-align:center;
-    background-color:red;
+    background-color:olive;
     color:black;
     line-height:40px;
     border-radius:5px;
