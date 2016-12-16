@@ -8,4 +8,4 @@
     js.src = p + "www.opinionstage.com/assets/loader.js?" + r;
     fjs.parentNode.insertBefore(js, fjs);
   }(document, 'script', 'os-widget-jssdk'));
-<div id="2407563" class="os_poll" data-path="/polls/2407563"></div>
+
